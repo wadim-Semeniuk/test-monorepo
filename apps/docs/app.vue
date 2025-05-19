@@ -9,5 +9,5 @@ useHead({
 </script>
 
 <template>
-  <Page :app-name="name" />
+  <div class="">hello world docs</div>
 </template>
