@@ -4,5 +4,5 @@ import { name } from "../package.json";
 </script>
 
 <template>
-  <Page :app-name="name" />
+  <div class="">hello world wed</div>
 </template>
